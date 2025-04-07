@@ -21,6 +21,17 @@ This project provides an analysis of the Australian Occupation Shortage List (OS
 - **Source**: [Australian Skill Shortage Data (2021-2024)](https://www.kaggle.com/datasets/akhtarali1997/australian-skill-shortage-data-2021-2024-anzsco6)
 
 ---
+
+## 🛡️ License
+
+This project is licensed under the CC BY-NC-ND 4.0 License.  
+Unauthorized reposting or modification is strictly prohibited.  
+[View License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+📩 For access or collaboration requests, please email me at: navakumarsajjan@gmail.com
+
+---
+
 **Q1 Identify Occupations with a National Shortage in 2024**
 ```SQL
 select anzsco
