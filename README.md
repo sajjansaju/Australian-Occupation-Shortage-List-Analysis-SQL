@@ -3,7 +3,15 @@
 This project provides an analysis of the Australian Occupation Shortage List (OSL), offering insights into the shortage status of various occupations in the Australian labor market. The analysis focuses on identifying trends, regional shortages, and occupation-specific insights using SQL. The data spans from 2021 to 2024 and is based on the ANZSCO6 classification.
 
 ---
+## 🛡️ License
 
+This project is licensed under the CC BY-NC-ND 4.0 License.  
+Unauthorized reposting or modification is strictly prohibited.  
+[View License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+📩 For access or collaboration requests, please email me at: navakumarsajjan@gmail.com
+
+---
 ## Features
 
 - **Occupation Trends**: Analysis of shortages over time (2021-2024).
@@ -19,16 +27,6 @@ This project provides an analysis of the Australian Occupation Shortage List (OS
 - **Timeframe**: 2021-2024
 - **Classification**: ANZSCO6
 - **Source**: [Australian Skill Shortage Data (2021-2024)](https://www.kaggle.com/datasets/akhtarali1997/australian-skill-shortage-data-2021-2024-anzsco6)
-
----
-
-## 🛡️ License
-
-This project is licensed under the CC BY-NC-ND 4.0 License.  
-Unauthorized reposting or modification is strictly prohibited.  
-[View License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-📩 For access or collaboration requests, please email me at: navakumarsajjan@gmail.com
 
 ---
 
